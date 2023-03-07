@@ -2,9 +2,9 @@
 
 Principal Component Analysis is an unsupervised algorithm used to reduce the dimensionality of data, making it easier to run Machine Learning models on the data. What does this mean? 
 Assume a raw dataset with a regression line.<br>
-![image.png](attachment:image.png)<br>
+![image.png](image.png)<br>
 Most of the variance in the data can be explained with the regression line. Therefore, it is called as our first component. Now let us drop a perpendicular to the component. It will be our second component.<br>
-![image-2.png](attachment:image-2.png)<br>
+![image-2.png](image-2.png)<br>
 As we can see, most of the data's variance can be explained by both these components. By rotating the data keeping the compnents as the axes, we have a much simpler, one-dimensional view of previously two_dimensional data.
 ![imgbruv.png](imgbruv.png)
 
